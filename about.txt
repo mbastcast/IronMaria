@@ -1,0 +1,4 @@
+date >> output.txt
+
+ls
+this is my fun fact
